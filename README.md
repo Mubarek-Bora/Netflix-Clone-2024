@@ -7,7 +7,7 @@
 2. **Create React Application**: 
    - Run the following command to set up the React app:
      ```bash
-     npm create vite@latest
+     npm create-react appp "Netflix-2024"
      ```
 3. **Clean Up**:
    - Remove unnecessary files from the generated project.
