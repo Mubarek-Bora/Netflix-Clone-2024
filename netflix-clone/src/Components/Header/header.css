@@ -12,6 +12,21 @@ transition: all 0.5s ease-in;
 z-index: 1;
 background-color: black;
 }
+
+.header_outer_container {
+    position: sticky;
+    margin-bottom: 100px;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    height: 10vh;
+    color: white;
+    transition: all 0.5s ease-in;
+    z-index: 1;}
+    /* Optional: Add background color for active state */
+    /* background-color: rgb(148, 132, 132); */
 .header_contanier{
   width: 90%;
   display: flex;
